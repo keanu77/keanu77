@@ -97,7 +97,6 @@
 | AthleteType 運動人格 | 28 題情境測驗找出你的運動人格 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
 | 馬拉松完賽訓練 | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
 | 恢復力迷宮 | 運動恢復教育迷宮遊戲 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
-| OpenEvidence MCP | 非官方 OpenEvidence MCP server，含 BibTeX 匯出與 Crossref 驗證 | — | [repo](https://github.com/keanu77/openevidence-mcp) |
 
 <div align="center">
 
