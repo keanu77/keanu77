@@ -61,16 +61,55 @@
 
 ---
 
-## 技術棧
+## Tech Stack & Tools
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,js,python,astro,nextjs,react,tailwind,postgres,prisma,cloudflare,docker,githubactions&perline=12)](https://skillicons.dev)
+### Core
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6b7280?style=flat-square)
+### Frameworks
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+
+### Data & Infra
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+
+### AI Coding Agents
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6b7280?style=for-the-badge)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&border_radius=10" alt="GitHub Stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
+</picture>
 
 </div>
 
