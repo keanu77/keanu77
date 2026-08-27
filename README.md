@@ -111,6 +111,11 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</picture>
+
 </div>
 
 ---
