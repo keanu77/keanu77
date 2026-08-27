@@ -142,6 +142,7 @@
 
 <a href="https://sportsmedicine.tw"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+<a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%E5%AE%98%E6%96%B9%E5%B8%B3%E8%99%9F%20%40521cvffb-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE 官方帳號" /></a>
 <a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
