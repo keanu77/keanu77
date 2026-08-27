@@ -29,7 +29,6 @@
 | **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
 | **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
 | **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
-| **肌力訓練線上課程** | 316 支公開示範影片，逐條對照 PubMed 實證分級<br>（與 [@htlin222](https://github.com/htlin222) 合作，原始碼在對方 repo） | [開啟](https://gym-course.pages.dev) | [repo](https://github.com/htlin222/gym-course) |
 
 ### 研究與臨床輔助工具
 
