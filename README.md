@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=170&section=header&text=%E5%90%B3%E6%98%93%E6%BE%84%20Ethan%20Wu&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Sports%20Medicine%20Physician%20%C2%B7%20Builder&descSize=18&descAlignY=72" alt="吳易澄 Ethan Wu" />
+<img src="assets/header.svg" alt="吳易澄 Ethan Wu — 運動醫學／復健醫學／疼痛專科醫師" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%A9%BA+%E9%81%8B%E5%8B%95%E9%86%AB%E5%AD%B8%EF%BC%8F%E5%BE%A9%E5%81%A5%E7%A7%91%E9%86%AB%E5%B8%AB;%F0%9F%8F%83+%E5%9C%8B%E5%AE%B6%E9%9A%8A%E9%9A%A8%E9%9A%8A%E9%86%AB%E5%B8%AB+%C2%B7+%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%B0%8E%E5%BC%95%E6%B3%A8%E5%B0%84;%F0%9F%A7%AA+%E6%8A%8A%E9%96%80%E8%A8%BA%E8%A1%9B%E6%95%99%E5%81%9A%E6%88%90%E8%83%BD%E4%BA%92%E5%8B%95%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7)](https://git.io/typing-svg)
 
@@ -137,6 +137,6 @@
 
 這些工具與內容為衛教與教育用途，無法取代醫師診察、超音波或 MRI 等影像檢查。症狀持續或惡化請就醫。
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=90&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="" width="100%" />
 
 </div>

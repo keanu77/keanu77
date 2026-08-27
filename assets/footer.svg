@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="頁尾裝飾">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="110"/></clipPath>
+  </defs>
+  <style>
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-300px); } }
+    .wave { animation: drift linear infinite; }
+    .w1 { animation-duration: 11s; }
+    .w2 { animation-duration: 17s; }
+    @media (prefers-reduced-motion: reduce) { .wave { animation: none; } }
+  </style>
+  <rect width="1200" height="110" fill="url(#bg)"/>
+  <g clip-path="url(#frame)">
+    <g class="wave w2" opacity=".22">
+      <path fill="#ffffff" d="M0,44 C75,26 150,62 225,44 C300,26 375,62 450,44 C525,26 600,62 675,44 C750,26 825,62 900,44 C975,26 1050,62 1125,44 C1200,26 1275,62 1350,44 C1425,26 1500,62 1575,44 L1575,0 L0,0 Z"/>
+    </g>
+    <g class="wave w1" opacity=".3">
+      <path fill="#ffffff" d="M0,28 C75,10 150,46 225,28 C300,10 375,46 450,28 C525,10 600,46 675,28 C750,10 825,46 900,28 C975,10 1050,46 1125,28 C1200,10 1275,46 1350,28 C1425,10 1500,46 1575,28 L1575,0 L0,0 Z"/>
+    </g>
+  </g>
+</svg>

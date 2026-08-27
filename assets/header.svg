@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="吳易澄 Ethan Wu — 運動醫學／復健醫學／疼痛專科醫師">
+  <title>吳易澄 Ethan Wu — 運動醫學／復健醫學／疼痛專科醫師</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="220" rx="0"/></clipPath>
+  </defs>
+
+  <style>
+    /* 三層波浪各自以不同速度水平位移；位移量 300 等於一個完整波長，所以循環無接縫 */
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-300px); } }
+    @keyframes rise  { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: .75; } }
+
+    .wave { animation: drift linear infinite; }
+    .w1 { animation-duration: 9s;  }
+    .w2 { animation-duration: 14s; }
+    .w3 { animation-duration: 21s; }
+
+    .name { animation: rise .9s ease-out both; }
+    .role { animation: rise .9s ease-out .25s both; }
+    .meta { animation: rise .9s ease-out .45s both; }
+    .dot  { animation: pulse 3s ease-in-out infinite; }
+
+    /* 使用者開啟「減少動態效果」時全部停下，只留靜態版面 */
+    @media (prefers-reduced-motion: reduce) {
+      .wave, .name, .role, .meta, .dot { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <g clip-path="url(#frame)">
+    <g class="wave w3" opacity=".18">
+      <path fill="#ffffff" d="M0,150 C75,132 150,168 225,150 C300,132 375,168 450,150 C525,132 600,168 675,150 C750,132 825,168 900,150 C975,132 1050,168 1125,150 C1200,132 1275,168 1350,150 C1425,132 1500,168 1575,150 L1575,220 L0,220 Z"/>
+    </g>
+    <g class="wave w2" opacity=".26">
+      <path fill="#ffffff" d="M0,166 C75,148 150,184 225,166 C300,148 375,184 450,166 C525,148 600,184 675,166 C750,148 825,184 900,166 C975,148 1050,184 1125,166 C1200,148 1275,184 1350,166 C1425,148 1500,184 1575,166 L1575,220 L0,220 Z"/>
+    </g>
+    <g class="wave w1" opacity=".34">
+      <path fill="#ffffff" d="M0,182 C75,164 150,200 225,182 C300,164 375,200 450,182 C525,164 600,200 675,182 C750,164 825,200 900,182 C975,164 1050,200 1125,182 C1200,164 1275,200 1350,182 C1425,164 1500,200 1575,182 L1575,220 L0,220 Z"/>
+    </g>
+  </g>
+
+  <g font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei','Hiragino Sans GB',sans-serif" text-anchor="middle">
+    <text class="name" x="600" y="82" fill="#ffffff" font-size="46" font-weight="700" letter-spacing="2">吳易澄　Ethan Wu</text>
+    <text class="role" x="600" y="122" fill="#e0f2fe" font-size="21" font-weight="600" letter-spacing="1.5">運動醫學／復健醫學／疼痛專科醫師</text>
+    <text class="meta" x="600" y="152" fill="#bae6fd" font-size="15" letter-spacing="1">Sports Medicine Physician　·　Builder</text>
+  </g>
+
+  <circle class="dot" cx="1148" cy="34" r="5" fill="#7dd3fc"/>
+  <circle class="dot" cx="1168" cy="34" r="5" fill="#7dd3fc" style="animation-delay:.6s"/>
+  <circle class="dot" cx="1188" cy="34" r="5" fill="#7dd3fc" style="animation-delay:1.2s"/>
+</svg>
