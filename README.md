@@ -52,7 +52,7 @@
 | **臨床** | 超音波導引注射、PRP／增生療法、肩關節疼痛、膝關節退化、足踝傷害、跑者傷害、運動回場評估 |
 | **衛教內容** | 站內長文、FAQ／AEO 結構化、示範動作頁、文獻索引，全部依台灣《醫療法》第 85 條自檢 |
 | **教育工具** | 運動處方產生器、禁藥教育平台、人格測驗、衛教遊戲、開放資料視覺化 |
-| **AI 工作流** | Claude Code／Codex 協作開發、MCP server、文獻查證管線、醫療內容合規檢查 |
+| **AI 工作流** | 多個 coding agent 交叉稽核、自建 MCP server、文獻查證與 RAG 管線、地端模型推論、醫療內容合規檢查 |
 
 - [sportsmedicine.tw](https://sportsmedicine.tw)　衛教文章、主題分類、示範動作與工具集
 - [sportsmedicine.tw/lab](https://sportsmedicine.tw/lab)　vibe-coding 作品集，全部開源
@@ -68,33 +68,53 @@
 ### Core
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
-### Frameworks
+### Web
 [![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 
-### Data & Infra
+### 資料與視覺化
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
+&nbsp;
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org)
+
+### 部署與維運
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+&nbsp;
+[![Zeabur](https://img.shields.io/badge/Zeabur-6300FF?style=for-the-badge&logoColor=white)](https://zeabur.com)
 
-### AI Coding Agents
+### AI 協作
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6b7280?style=for-the-badge)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok%20CLI-000000?style=for-the-badge&logo=x&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 地端推論與知識庫
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen3-27B-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-bge--m3%20embeddings-0F766E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-%E8%87%AA%E5%BB%BA%20server-6b7280?style=for-the-badge)
 
 </div>
+
+**怎麼用這些東西**：多個 coding agent 各跑不重疊的維度再交叉打假，而不是同一個問題問三次；
+敏感或大量重複的分析交給地端模型，資料不出機器；文獻與衛教語料建成自架 RAG，
+接 MCP server 給 agent 查證。醫療內容一律過《醫療法》第 85 條與臨床用詞自檢才發布。
 
 ---
 
