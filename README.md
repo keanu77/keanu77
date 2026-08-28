@@ -21,25 +21,26 @@
 ## 上線中的工具
 
 全部部署在 `*.sportsmedicine.tw` 子網域，原始碼公開。
+覺得哪個有用就點個 star，我會知道要往哪個方向繼續做。
 
 | 專案 | 一句話 | 線上 | 原始碼 |
 |------|--------|:----:|:------:|
-| **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
-| **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
-| **運動禁藥教育平台** | WADA 禁用清單中文教學、情境測驗、TUE 申請流程 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidoping-platform) |
-| **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
-| **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
-| **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
-| **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
+| **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [![給 exercise-prescription-recommendation 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/exercise-prescription-recommendation) |
+| **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [![給 review.sportsmedicine 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/review.sportsmedicine) |
+| **運動禁藥教育平台** | WADA 禁用清單中文教學、情境測驗、TUE 申請流程 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [![給 antidoping-platform 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/antidoping-platform) |
+| **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [![給 twexercisemap 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/twexercisemap) |
+| **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [![給 athletetype 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/athletetype) |
+| **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [![給 marathongame 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/marathongame) |
+| **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [![給 recoverymaze 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/recoverymaze) |
 
 ### 研究與臨床輔助工具
 
-| 專案 | 一句話 |
-|------|--------|
-| [運動禁藥案例資料庫](https://github.com/keanu77/antidopingplatform) | 國際禁藥處分案例搜尋與比較、年度趨勢與運動項目分布視覺化 |
-| [統合分析計算器](https://github.com/keanu77/Meta-Analysis-Calculator) | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 |
-| [反向工程搜尋](https://github.com/keanu77/reverse-engineer-searcher) | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 |
-| [Claude Code Skills 目錄](https://github.com/keanu77/AIskillsintro) | 可搜尋、分類瀏覽的 Agent Skills 導覽站 |
+| 專案 | 一句話 | |
+|------|--------|:--:|
+| [運動禁藥案例資料庫](https://github.com/keanu77/antidopingplatform) | 國際禁藥處分案例搜尋與比較、年度趨勢與運動項目分布視覺化 | [![給 antidopingplatform 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/antidopingplatform) |
+| [統合分析計算器](https://github.com/keanu77/Meta-Analysis-Calculator) | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 | [![給 Meta-Analysis-Calculator 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/Meta-Analysis-Calculator) |
+| [反向工程搜尋](https://github.com/keanu77/reverse-engineer-searcher) | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [![給 reverse-engineer-searcher 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/reverse-engineer-searcher) |
+| [Claude Code Skills 目錄](https://github.com/keanu77/AIskillsintro) | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [![給 AIskillsintro 一顆星](https://img.shields.io/badge/%E2%98%85_Star-1e3a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/keanu77/AIskillsintro) |
 
 ---
 
