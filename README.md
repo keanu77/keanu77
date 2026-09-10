@@ -38,7 +38,7 @@
 
 | 專案 | 介紹 | 線上 | 原始碼 |
 |------|------|:----:|:------:|
-| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | [repo](https://github.com/keanu77/imaging-course-hub) |
+| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | 未列出 |
 | **肩部影像課程** | 依 X 光、超音波與 MRI 建立系統化學習路徑，搭配逐段筆記、掃描重點與進階判讀練習，涵蓋旋轉肌、盂唇及肩部不穩定等主題 | [進入課程](https://shoulder-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/shoulder-imaging-course) |
 | **膝關節影像課程** | 整合 X 光、超音波與 MRI，透過影片、逐段筆記、知識檢核題與進階練習，學習膝部解剖、常見病理及影像報告重點 | [進入課程](https://knee-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/knee-imaging-course) |
 
