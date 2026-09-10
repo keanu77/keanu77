@@ -20,7 +20,7 @@
 
 ## 上線中的工具
 
-全部部署在 `*.sportsmedicine.tw` 子網域，原始碼公開。
+從運動衛教、研究工具到影像學習，點選「線上」即可使用；原始碼開放範圍依各專案標示。
 
 | 專案 | 一句話 | 線上 | 原始碼 |
 |------|--------|:----:|:------:|
@@ -31,6 +31,16 @@
 | **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
 | **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
 | **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
+
+### 運動醫學影像學習
+
+從統合入口選擇學習部位，再進入課程練習 X 光、超音波與 MRI 判讀。影片附來源與教學重點，也可透過網站推薦影片、文獻或回報修正。
+
+| 專案 | 介紹 | 線上 | 原始碼 |
+|------|------|:----:|:------:|
+| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | 未公開 |
+| **肩部影像課程** | 依 X 光、超音波與 MRI 建立系統化學習路徑，搭配逐段筆記、掃描重點與進階判讀練習，涵蓋旋轉肌、盂唇及肩部不穩定等主題 | [進入課程](https://shoulder-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/shoulder-imaging-course) |
+| **膝關節影像課程** | 整合 X 光、超音波與 MRI，透過影片、逐段筆記、知識檢核題與進階練習，學習膝部解剖、常見病理及影像報告重點 | [進入課程](https://knee-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/knee-imaging-course) |
 
 ### 研究與臨床輔助工具
 
