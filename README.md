@@ -26,6 +26,7 @@
 |------|--------|:----:|:------:|
 | **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
 | **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
+| **運動傷害影片圖鑑** | 依受傷部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察、衛教重點與選手公開回場紀錄 | [開啟](https://injury.sportsmedicine.tw/) | 未公開 |
 | **運動禁藥教育平台** | WADA 禁用清單中文教學、情境測驗、TUE 申請流程 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidoping-platform) |
 | **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
 | **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
@@ -38,7 +39,7 @@
 
 | 專案 | 介紹 | 線上 | 原始碼 |
 |------|------|:----:|:------:|
-| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | 未列出 |
+| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | [repo](https://github.com/keanu77/imaging-course-hub) |
 | **肩部影像課程** | 依 X 光、超音波與 MRI 建立系統化學習路徑，搭配逐段筆記、掃描重點與進階判讀練習，涵蓋旋轉肌、盂唇及肩部不穩定等主題 | [進入課程](https://shoulder-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/shoulder-imaging-course) |
 | **膝關節影像課程** | 整合 X 光、超音波與 MRI，透過影片、逐段筆記、知識檢核題與進階練習，學習膝部解剖、常見病理及影像報告重點 | [進入課程](https://knee-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/knee-imaging-course) |
 
