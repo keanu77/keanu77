@@ -26,7 +26,7 @@
 |------|--------|:----:|:------:|
 | **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
 | **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
-| **運動傷害影片圖鑑** | 依受傷部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察、衛教重點與選手公開回場紀錄 | [開啟](https://injury.sportsmedicine.tw/) | 未公開 |
+| **運動傷害影片圖鑑** | 依受傷部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察、衛教重點與選手公開回場紀錄 | [開啟](https://injury.sportsmedicine.tw/) | [公開範本（MIT）](https://github.com/keanu77/sports-injury-atlas-starter) |
 | **運動禁藥教育平台** | WADA 禁用清單中文教學、情境測驗、TUE 申請流程 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidoping-platform) |
 | **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
 | **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
@@ -52,19 +52,11 @@
 | [反向工程搜尋](https://github.com/keanu77/reverse-engineer-searcher) | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 |
 | [Claude Code Skills 目錄](https://github.com/keanu77/AIskillsintro) | 可搜尋、分類瀏覽的 Agent Skills 導覽站 |
 
-### 開源網站範本
-
-想自己建立可搜尋的圖鑑網站，可以從這份範本開始。
-
-| 範本 | 介紹 | 授權 |
-|------|------|:----:|
-| [**Sports Injury Atlas Starter**](https://github.com/keanu77/sports-injury-atlas-starter) | Astro／TypeScript 靜態網站範本，提供球員與關鍵字搜尋、分類、10 筆精選、事件時間軸與播放器；附 12 筆虛構資料，可自行延伸 | [MIT](https://github.com/keanu77/sports-injury-atlas-starter/blob/main/LICENSE) |
-
 ---
 
 ## 關於我
 
-運動醫學、復健醫學與疼痛醫學。門診處理運動傷害、肩頸與膝踝疼痛，以超音波導引注射與復健運動處方為主。臨床之外的時間，用 TypeScript 和 AI coding agent 把運動醫學知識搬到網頁上。也把搜尋、分類與事件時間軸等網站功能整理成開源範本，讓有相近需求的人可以接著做。
+運動醫學、復健醫學與疼痛醫學。門診處理運動傷害、肩頸與膝踝疼痛，以超音波導引注射與復健運動處方為主。臨床之外的時間，用 TypeScript 和 AI coding agent 把運動醫學知識搬到網頁上。
 
 | 領域 | 主題 |
 |---|---|
