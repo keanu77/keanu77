@@ -52,11 +52,19 @@
 | [反向工程搜尋](https://github.com/keanu77/reverse-engineer-searcher) | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 |
 | [Claude Code Skills 目錄](https://github.com/keanu77/AIskillsintro) | 可搜尋、分類瀏覽的 Agent Skills 導覽站 |
 
+### 開源網站範本
+
+想自己建立可搜尋的圖鑑網站，可以從這份範本開始。
+
+| 範本 | 介紹 | 授權 |
+|------|------|:----:|
+| [**Sports Injury Atlas Starter**](https://github.com/keanu77/sports-injury-atlas-starter) | Astro／TypeScript 靜態網站範本，提供球員與關鍵字搜尋、分類、10 筆精選、事件時間軸與播放器；附 12 筆虛構資料，可自行延伸 | [MIT](https://github.com/keanu77/sports-injury-atlas-starter/blob/main/LICENSE) |
+
 ---
 
 ## 關於我
 
-運動醫學、復健醫學與疼痛醫學。門診處理運動傷害、肩頸與膝踝疼痛，以超音波導引注射與復健運動處方為主。臨床之外的時間，用 TypeScript 和 AI coding agent 把運動醫學知識搬到網頁上。
+運動醫學、復健醫學與疼痛醫學。門診處理運動傷害、肩頸與膝踝疼痛，以超音波導引注射與復健運動處方為主。臨床之外的時間，用 TypeScript 和 AI coding agent 把運動醫學知識搬到網頁上。也把搜尋、分類與事件時間軸等網站功能整理成開源範本，讓有相近需求的人可以接著做。
 
 | 領域 | 主題 |
 |---|---|
@@ -66,7 +74,7 @@
 | **AI 工作流** | 多個 coding agent 交叉稽核、自建 MCP server、文獻查證與 RAG 管線、地端模型推論、醫療內容合規檢查 |
 
 - [sportsmedicine.tw](https://sportsmedicine.tw)　衛教文章、主題分類、示範動作與工具集
-- [sportsmedicine.tw/lab](https://sportsmedicine.tw/lab)　vibe-coding 作品集，全部開源
+- [sportsmedicine.tw/lab](https://sportsmedicine.tw/lab)　vibe-coding 作品集，公開範圍依各專案標示
 - [blog.sportsmedicine.tw](https://blog.sportsmedicine.tw/)　2017 年起的長年部落格
 - [review.sportsmedicine.tw](https://review.sportsmedicine.tw/)　運動醫學系統性回顧與指引索引
 
