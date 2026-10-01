@@ -50,8 +50,8 @@
 | 專案 | 一句話 | 線上 | 原始碼 |
 |------|--------|:----:|:------:|
 | **統合分析計算器** | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 | [開啟](https://metacalc.sportsmedicine.tw/) | [repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
-| **反向工程搜尋** | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [開啟](https://reverse-searcher.zeabur.app) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
-| **Claude Code Skills 目錄** | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [開啟](https://aiskillsintro.pages.dev) | [repo](https://github.com/keanu77/AIskillsintro) |
+| **反向工程搜尋** | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [開啟](https://rev-searcher.sportsmedicine.tw/) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
+| **Claude Code Skills 目錄** | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [開啟](https://aiskills.sportsmedicine.tw/) | [repo](https://github.com/keanu77/AIskillsintro) |
 
 ---
 

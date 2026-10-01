@@ -52,8 +52,8 @@ Pick a body region from the hub, then practice reading X-ray, ultrasound, and MR
 | Project | What it does | Live | Source |
 |------|--------|:----:|:------:|
 | **Meta-Analysis Calculator** | Effect size conversion (Cohen's d / r / OR), confidence intervals, sample size and power estimation, with PDF reports | [Open](https://metacalc.sportsmedicine.tw/) | [repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
-| **Reverse-Engineer Searcher** | Derives MeSH terms from gold-standard PMIDs and builds sensitive / balanced / precise PubMed search strategies | [Open](https://reverse-searcher.zeabur.app) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
-| **Claude Code Skills Directory** | A searchable, categorized guide to Agent Skills | [Open](https://aiskillsintro.pages.dev) | [repo](https://github.com/keanu77/AIskillsintro) |
+| **Reverse-Engineer Searcher** | Derives MeSH terms from gold-standard PMIDs and builds sensitive / balanced / precise PubMed search strategies | [Open](https://rev-searcher.sportsmedicine.tw/) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
+| **Claude Code Skills Directory** | A searchable, categorized guide to Agent Skills | [Open](https://aiskills.sportsmedicine.tw/) | [repo](https://github.com/keanu77/AIskillsintro) |
 
 ---
 
