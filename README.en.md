@@ -12,9 +12,9 @@ Ultrasound-guided injections (PRP / prolotherapy)　·　Sports injuries & retur
 
 I turn the questions patients ask most into readable health education and interactive tools.
 
-<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
-<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Review%20Index-review.sportsmedicine.tw-1e3a8a?style=for-the-badge&labelColor=0369a1&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
-<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-10b981?style=for-the-badge&labelColor=0369a1&logo=blogger&logoColor=white" alt="blog" /></a>
+<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=flat&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
+<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Review%20Index-review.sportsmedicine.tw-1e3a8a?style=flat&labelColor=0369a1&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
+<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-10b981?style=flat&labelColor=0369a1&logo=blogger&logoColor=white" alt="blog" /></a>
 
 </div>
 
@@ -26,34 +26,63 @@ I turn the questions patients ask most into readable health education and intera
 
 Sports health education, research tools, and imaging courses. Click **Open** to use them; source availability varies by project.
 
-| Project | What it does | Live | Source |
-|------|--------|:----:|:------:|
-| **AI Exercise Prescription** | Personalized exercise prescriptions by age, fitness, and health status, based on ACSM FITT-VP principles and WHO physical activity guidelines | [Open](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
-| **Sports Medicine Review Index** | Index of systematic reviews, meta-analyses, and clinical guidelines, browsable by body region, topic, and population, with journal IF and free full-text flags | [Open](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
-| **Sports Injury Video Atlas** | Real injury videos by body region, sport, and scenario, with mechanism notes, education points, and athletes' public return-to-play records | [Open](https://injury.sportsmedicine.tw/) | [Public starter (MIT)](https://github.com/keanu77/sports-injury-atlas-starter) |
-| **Anti-Doping Education Platform** | Search and compare international doping sanction cases, with yearly trends, sport-by-sport visualizations, and anti-doping knowledge quizzes | [Open](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidopingplatform) |
-| **Taiwan Exercise Map** | Open-data visualization of the national Sports City Survey: physical activity status, trends, and rankings across Taiwan's 22 counties and cities | [Open](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
-| **AthleteType** | A 28-question sports personality quiz with tailored sport suggestions, training styles, and a coach communication guide | [Open](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
-| **Marathon Finisher** | A 2D side-scrolling health education game: manage stamina, pacing, and injury risk while avoiding illness and overtraining | [Open](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
-| **Recovery Maze** | A recovery education maze game: collect sleep, nutrition, and hydration while escaping six risk chasers to reach the dawn exit | [Open](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://exerciseprescription.sportsmedicine.tw/"><img src="assets/cards/exercise-prescription.jpg" alt="AI Exercise Prescription" width="100%" /></a>
+<br /><b><a href="https://exerciseprescription.sportsmedicine.tw/">AI Exercise Prescription</a></b><br />
+<sub>Personalized prescriptions by age, fitness, and health status, based on ACSM FITT-VP and WHO guidelines</sub><br />
+<sub><a href="https://exerciseprescription.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/exercise-prescription-recommendation">Source</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://review.sportsmedicine.tw/"><img src="assets/cards/review.jpg" alt="Sports Medicine Review Index" width="100%" /></a>
+<br /><b><a href="https://review.sportsmedicine.tw/">Sports Medicine Review Index</a></b><br />
+<sub>Systematic reviews, meta-analyses, and guidelines, browsable by body region, topic, and population</sub><br />
+<sub><a href="https://review.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/review.sportsmedicine">Source</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://injury.sportsmedicine.tw/"><img src="assets/cards/injury-atlas.jpg" alt="Sports Injury Video Atlas" width="100%" /></a>
+<br /><b><a href="https://injury.sportsmedicine.tw/">Sports Injury Video Atlas</a></b><br />
+<sub>Real injury videos by body region, sport, and scenario, with mechanism notes and return-to-play records</sub><br />
+<sub><a href="https://injury.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/sports-injury-atlas-starter">Public starter (MIT)</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://antidopingplatform.sportsmedicine.tw/"><img src="assets/cards/antidoping.jpg" alt="Anti-Doping Education Platform" width="100%" /></a>
+<br /><b><a href="https://antidopingplatform.sportsmedicine.tw/">Anti-Doping Education Platform</a></b><br />
+<sub>Search and compare doping sanction cases, with yearly trends and anti-doping quizzes</sub><br />
+<sub><a href="https://antidopingplatform.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/antidopingplatform">Source</a></sub>
+</td>
+</tr>
+</table>
+
+### More Tools
+
+| Project | What it does | Links |
+|------|--------| :----: |
+| **Taiwan Exercise Map** | Open-data visualization of the national Sports City Survey: physical activity status, trends, and rankings across Taiwan's 22 counties and cities | [Open](https://twexercisemap.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/twexercisemap) |
+| **AthleteType** | A 28-question sports personality quiz with tailored sport suggestions, training styles, and a coach communication guide | [Open](https://athletetype.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/athletetype) |
+| **Marathon Finisher** | A 2D side-scrolling health education game: manage stamina, pacing, and injury risk while avoiding illness and overtraining | [Open](https://marathongame.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/marathongame) |
+| **Recovery Maze** | A recovery education maze game: collect sleep, nutrition, and hydration while escaping six risk chasers to reach the dawn exit | [Open](https://recoverymaze.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/recoverymaze) |
 
 ### Sports Medicine Imaging Courses
 
 Pick a body region from the hub, then practice reading X-ray, ultrasound, and MRI. Videos come with sources and teaching notes, and you can suggest videos or papers, or report corrections, from the site.
 
-| Project | Description | Live | Source |
-|------|------|:----:|:------:|
-| **Sports Medicine Imaging Hub** | Seven courses (shoulder, wrist & hand, hip, knee, ankle & foot, cervical and lumbar spine) with learning paths, video sources, and introductions to societies and experts | [Start](https://imaging-course-hub.sportsmedicine.tw/) | [repo](https://github.com/keanu77/imaging-course-hub) |
-| **Shoulder Imaging Course** | Structured X-ray, ultrasound, and MRI learning paths with section notes, scanning tips, and advanced reading practice on the rotator cuff, labrum, and shoulder instability | [Enter](https://shoulder-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/shoulder-imaging-course) |
-| **Knee Imaging Course** | X-ray, ultrasound, and MRI through videos, section notes, knowledge checks, and advanced practice on knee anatomy, common pathology, and reporting essentials | [Enter](https://knee-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/knee-imaging-course) |
+| Project | Description | Links |
+|------|------| :----: |
+| **Sports Medicine Imaging Hub** | Seven courses (shoulder, wrist & hand, hip, knee, ankle & foot, cervical and lumbar spine) with learning paths, video sources, and introductions to societies and experts | [Open](https://imaging-course-hub.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/imaging-course-hub) |
+| **Shoulder Imaging Course** | Structured X-ray, ultrasound, and MRI learning paths with section notes, scanning tips, and advanced reading practice on the rotator cuff, labrum, and shoulder instability | [Open](https://shoulder-imaging.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/shoulder-imaging-course) |
+| **Knee Imaging Course** | X-ray, ultrasound, and MRI through videos, section notes, knowledge checks, and advanced practice on knee anatomy, common pathology, and reporting essentials | [Open](https://knee-imaging.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/knee-imaging-course) |
 
 ### Research & AI Tools
 
-| Project | What it does | Live | Source |
-|------|--------|:----:|:------:|
-| **Meta-Analysis Calculator** | Effect size conversion (Cohen's d / r / OR), confidence intervals, sample size and power estimation, with PDF reports | [Open](https://metacalc.sportsmedicine.tw/) | [repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
-| **Reverse-Engineer Searcher** | Derives MeSH terms from gold-standard PMIDs and builds sensitive / balanced / precise PubMed search strategies | [Open](https://rev-searcher.sportsmedicine.tw/) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
-| **Claude Code Skills Directory** | A searchable, categorized guide to Agent Skills | [Open](https://aiskills.sportsmedicine.tw/) | [repo](https://github.com/keanu77/AIskillsintro) |
+| Project | What it does | Links |
+|------|--------| :----: |
+| **Meta-Analysis Calculator** | Effect size conversion (Cohen's d / r / OR), confidence intervals, sample size and power estimation, with PDF reports | [Open](https://metacalc.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
+| **Reverse-Engineer Searcher** | Derives MeSH terms from gold-standard PMIDs and builds sensitive / balanced / precise PubMed search strategies | [Open](https://rev-searcher.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/reverse-engineer-searcher) |
+| **AI Skill Directory** | A searchable, categorized guide to Agent Skills | [Open](https://aiskills.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/AIskillsintro) |
 
 ---
 
@@ -76,6 +105,9 @@ Sports medicine, physical medicine & rehabilitation, and pain medicine. My clini
 ---
 
 ## Tech Stack & Tools
+
+<details>
+<summary><b>Tech stack &amp; tools (click to expand)</b></summary>
 
 <div align="center">
 
@@ -130,6 +162,8 @@ Sports medicine, physical medicine & rehabilitation, and pain medicine. My clini
 Sensitive or highly repetitive analysis runs on local models, so the data stays on my machine. Literature and health education content
 feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking. All medical content passes Article 85 of the Medical Care Act and a clinical terminology check before publishing.
 
+</details>
+
 ---
 
 ## GitHub Statistics
@@ -137,8 +171,8 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=10b981&text_color=334155&border_radius=10" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9&ring_color=fb923c&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=10b981&text_color=334155&ring_color=f97316&border_radius=10" alt="GitHub Stats" height="165" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_radius=10" />
@@ -146,8 +180,8 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=34d399&currStreakLabel=38bdf8&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
-  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=0369a1&fire=10b981&currStreakLabel=0369a1&currStreakNum=1f2328&sideNums=1f2328&sideLabels=334155&dates=57606a&border_radius=10" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=0d1117&stroke=0ea5e9&ring=fb923c&fire=f87171&currStreakLabel=fb923c&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=f97316&fire=ef4444&currStreakLabel=f97316&currStreakNum=1f2328&sideNums=1f2328&sideLabels=334155&dates=57606a&border_radius=10" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -158,10 +192,10 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 
 <div align="center">
 
-<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%40521cvffb-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE Official Account" /></a>
-<a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=flat&labelColor=0369a1&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%40521cvffb-06C755?style=flat&labelColor=0369a1&logo=line&logoColor=white" alt="LINE Official Account" /></a>
+<a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=flat&labelColor=0369a1&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=flat&labelColor=0369a1&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 

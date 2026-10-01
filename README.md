@@ -12,9 +12,9 @@
 
 把門診最常被問到的問題，寫成看得懂的衛教，做成能互動的工具。
 
-<a href="https://sportsmedicine.tw"><img src="https://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
-<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/%E6%96%87%E7%8D%BB%E7%B4%A2%E5%BC%95-review.sportsmedicine.tw-1e3a8a?style=for-the-badge&labelColor=0369a1&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
-<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/%E9%83%A8%E8%90%BD%E6%A0%BC-blog.sportsmedicine.tw-10b981?style=for-the-badge&labelColor=0369a1&logo=blogger&logoColor=white" alt="blog" /></a>
+<a href="https://sportsmedicine.tw"><img src="https://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%99-sportsmedicine.tw-0ea5e9?style=flat&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
+<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/%E6%96%87%E7%8D%BB%E7%B4%A2%E5%BC%95-review.sportsmedicine.tw-1e3a8a?style=flat&labelColor=0369a1&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
+<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/%E9%83%A8%E8%90%BD%E6%A0%BC-blog.sportsmedicine.tw-10b981?style=flat&labelColor=0369a1&logo=blogger&logoColor=white" alt="blog" /></a>
 
 </div>
 
@@ -22,36 +22,65 @@
 
 ## 上線中的工具
 
-從運動衛教、研究工具到影像學習，點選「線上」即可使用；原始碼開放範圍依各專案標示。
+從運動衛教、研究工具到影像學習，點選「開啟」即可使用；原始碼開放範圍依各專案標示。
 
-| 專案 | 一句話 | 線上 | 原始碼 |
-|------|--------|:----:|:------:|
-| **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
-| **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
-| **運動傷害影片圖鑑** | 依受傷部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察、衛教重點與選手公開回場紀錄 | [開啟](https://injury.sportsmedicine.tw/) | [公開範本（MIT）](https://github.com/keanu77/sports-injury-atlas-starter) |
-| **運動禁藥教育平台** | 國際禁藥處分案例搜尋與比較、年度趨勢與運動項目分布視覺化，附禁藥知識教育測驗 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidopingplatform) |
-| **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
-| **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
-| **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
-| **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/) | [repo](https://github.com/keanu77/recoverymaze) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://exerciseprescription.sportsmedicine.tw/"><img src="assets/cards/exercise-prescription.jpg" alt="AI 運動處方" width="100%" /></a>
+<br /><b><a href="https://exerciseprescription.sportsmedicine.tw/">AI 運動處方</a></b><br />
+<sub>依 ACSM FITT-VP 與 WHO 指引，按年齡、體能與健康狀況產生客製化運動處方</sub><br />
+<sub><a href="https://exerciseprescription.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/exercise-prescription-recommendation">原始碼</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://review.sportsmedicine.tw/"><img src="assets/cards/review.jpg" alt="運動醫學 Review 索引" width="100%" /></a>
+<br /><b><a href="https://review.sportsmedicine.tw/">運動醫學 Review 索引</a></b><br />
+<sub>系統性回顧、統合分析與臨床指引索引，依部位／主題／族群瀏覽</sub><br />
+<sub><a href="https://review.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/review.sportsmedicine">原始碼</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://injury.sportsmedicine.tw/"><img src="assets/cards/injury-atlas.jpg" alt="運動傷害影片圖鑑" width="100%" /></a>
+<br /><b><a href="https://injury.sportsmedicine.tw/">運動傷害影片圖鑑</a></b><br />
+<sub>依部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察與回場紀錄</sub><br />
+<sub><a href="https://injury.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/sports-injury-atlas-starter">公開範本（MIT）</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://antidopingplatform.sportsmedicine.tw/"><img src="assets/cards/antidoping.jpg" alt="運動禁藥教育平台" width="100%" /></a>
+<br /><b><a href="https://antidopingplatform.sportsmedicine.tw/">運動禁藥教育平台</a></b><br />
+<sub>國際禁藥處分案例搜尋比較、年度趨勢視覺化，附禁藥知識教育測驗</sub><br />
+<sub><a href="https://antidopingplatform.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/antidopingplatform">原始碼</a></sub>
+</td>
+</tr>
+</table>
+
+### 更多工具
+
+| 專案 | 一句話 | 連結 |
+|------|--------| :----: |
+| **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/twexercisemap) |
+| **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/athletetype) |
+| **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/marathongame) |
+| **恢復力迷宮** | 運動恢復教育迷宮遊戲，在六種風險追逐中收集睡眠、營養、水分抵達晨光出口 | [開啟](https://recoverymaze.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/recoverymaze) |
 
 ### 運動醫學影像學習
 
 從統合入口選擇學習部位，再進入課程練習 X 光、超音波與 MRI 判讀。影片附來源與教學重點，也可透過網站推薦影片、文獻或回報修正。
 
-| 專案 | 介紹 | 線上 | 原始碼 |
-|------|------|:----:|:------:|
-| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開始學習](https://imaging-course-hub.sportsmedicine.tw/) | [repo](https://github.com/keanu77/imaging-course-hub) |
-| **肩部影像課程** | 依 X 光、超音波與 MRI 建立系統化學習路徑，搭配逐段筆記、掃描重點與進階判讀練習，涵蓋旋轉肌、盂唇及肩部不穩定等主題 | [進入課程](https://shoulder-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/shoulder-imaging-course) |
-| **膝關節影像課程** | 整合 X 光、超音波與 MRI，透過影片、逐段筆記、知識檢核題與進階練習，學習膝部解剖、常見病理及影像報告重點 | [進入課程](https://knee-imaging.sportsmedicine.tw/) | [repo](https://github.com/keanu77/knee-imaging-course) |
+| 專案 | 介紹 | 連結 |
+|------|------| :----: |
+| **運動醫學影像學習站** | 整合肩部、腕手、髖、膝、踝足、頸椎與腰椎七站，整理學習路徑、影片來源及學會與專家的中文介紹 | [開啟](https://imaging-course-hub.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/imaging-course-hub) |
+| **肩部影像課程** | 依 X 光、超音波與 MRI 建立系統化學習路徑，搭配逐段筆記、掃描重點與進階判讀練習，涵蓋旋轉肌、盂唇及肩部不穩定等主題 | [開啟](https://shoulder-imaging.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/shoulder-imaging-course) |
+| **膝關節影像課程** | 整合 X 光、超音波與 MRI，透過影片、逐段筆記、知識檢核題與進階練習，學習膝部解剖、常見病理及影像報告重點 | [開啟](https://knee-imaging.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/knee-imaging-course) |
 
 ### 研究與 AI 輔助工具
 
-| 專案 | 一句話 | 線上 | 原始碼 |
-|------|--------|:----:|:------:|
-| **統合分析計算器** | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 | [開啟](https://metacalc.sportsmedicine.tw/) | [repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
-| **反向工程搜尋** | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [開啟](https://rev-searcher.sportsmedicine.tw/) | [repo](https://github.com/keanu77/reverse-engineer-searcher) |
-| **Claude Code Skills 目錄** | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [開啟](https://aiskills.sportsmedicine.tw/) | [repo](https://github.com/keanu77/AIskillsintro) |
+| 專案 | 一句話 | 連結 |
+|------|--------| :----: |
+| **統合分析計算器** | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 | [開啟](https://metacalc.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
+| **反向工程搜尋** | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [開啟](https://rev-searcher.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/reverse-engineer-searcher) |
+| **AI skill目錄** | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [開啟](https://aiskills.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/AIskillsintro) |
 
 ---
 
@@ -74,6 +103,9 @@
 ---
 
 ## Tech Stack & Tools
+
+<details>
+<summary><b>技術棧與工具（點擊展開）</b></summary>
 
 <div align="center">
 
@@ -128,6 +160,8 @@
 敏感或大量重複的分析交給地端模型，資料不出機器；文獻與衛教語料建成自架 RAG，
 接 MCP server 給 agent 查證。醫療內容一律過《醫療法》第 85 條與臨床用詞自檢才發布。
 
+</details>
+
 ---
 
 ## GitHub Statistics
@@ -135,8 +169,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=10b981&text_color=334155&border_radius=10" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9&ring_color=fb923c&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=10b981&text_color=334155&ring_color=f97316&border_radius=10" alt="GitHub Stats" height="165" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_radius=10" />
@@ -144,8 +178,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=34d399&currStreakLabel=38bdf8&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
-  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=0369a1&fire=10b981&currStreakLabel=0369a1&currStreakNum=1f2328&sideNums=1f2328&sideLabels=334155&dates=57606a&border_radius=10" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=0d1117&stroke=0ea5e9&ring=fb923c&fire=f87171&currStreakLabel=fb923c&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=f97316&fire=ef4444&currStreakLabel=f97316&currStreakNum=1f2328&sideNums=1f2328&sideLabels=334155&dates=57606a&border_radius=10" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -156,10 +190,10 @@
 
 <div align="center">
 
-<a href="https://sportsmedicine.tw"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%E5%AE%98%E6%96%B9%E5%B8%B3%E8%99%9F%20%40521cvffb-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE 官方帳號" /></a>
-<a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://sportsmedicine.tw"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=flat&labelColor=0369a1&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%E5%AE%98%E6%96%B9%E5%B8%B3%E8%99%9F%20%40521cvffb-06C755?style=flat&labelColor=0369a1&logo=line&logoColor=white" alt="LINE 官方帳號" /></a>
+<a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=flat&labelColor=0369a1&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=flat&labelColor=0369a1&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
