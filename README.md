@@ -1,5 +1,7 @@
 <div align="center">
 
+**中文**　|　[English](https://github.com/keanu77/keanu77/blob/main/README.en.md)
+
 <img src="assets/header.svg" alt="吳易澄 Ethan Wu — 運動醫學／復健醫學／疼痛專科醫師" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=720&height=50&lines=%E9%96%80%E8%A8%BA%E4%B8%89%E5%88%86%E9%90%98%E8%AC%9B%E4%B8%8D%E5%AE%8C%E7%9A%84%EF%BC%8C%E5%AF%AB%E6%88%90%E7%9C%8B%E5%BE%97%E6%87%82%E7%9A%84%E8%A1%9B%E6%95%99%3B%E7%97%85%E4%BA%BA%E5%95%8F%E9%81%8E%E4%B8%89%E6%AC%A1%E7%9A%84%E5%95%8F%E9%A1%8C%EF%BC%8C%E5%B0%B1%E5%80%BC%E5%BE%97%E5%81%9A%E6%88%90%E4%B8%80%E5%80%8B%E5%B7%A5%E5%85%B7%3B%E7%82%BA%E4%BA%86%E5%A5%BD%E7%8E%A9%EF%BC%8C%E4%B9%9F%E7%82%BA%E4%BA%86%E5%AD%B8%E7%BF%92)](https://git.io/typing-svg)
