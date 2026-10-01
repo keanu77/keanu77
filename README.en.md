@@ -2,19 +2,19 @@
 
 [中文](https://github.com/keanu77)　|　**English**
 
-<img src="assets/header.svg" alt="Ethan Wu, MD — Sports Medicine / Physical Medicine & Rehabilitation / Pain Medicine" width="100%" />
+<img src="assets/header.en.svg" alt="Ethan Wu, MD — Sports Medicine / Physical Medicine & Rehabilitation / Pain Medicine" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=760&height=50&lines=What%20I%20can%27t%20cover%20in%20a%203-minute%20clinic%20visit%2C%20I%20write%20up%20as%20patient%20education;A%20question%20patients%20ask%20three%20times%20deserves%20its%20own%20tool;Built%20for%20fun%2C%20and%20for%20learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=760&height=50&lines=A%203-minute%20visit%20leaves%20questions.%20I%20write%20the%20answers.;Asked%20three%20times%3F%20It%20deserves%20a%20tool.;Built%20for%20fun%2C%20and%20for%20learning.)](https://git.io/typing-svg)
 
 **Attending Physician, Sports Medicine**　·　Landseed International Clinic, Taipei
 
-Ultrasound-guided injections (PRP / prolotherapy)　·　Sports injuries & return-to-play assessment　·　Team physician for Taiwan national teams
+Ultrasound-guided injections (PRP / prolotherapy)　·　Sports injuries & return to play　·　Taiwan national team physician
 
 I turn the questions patients ask most into readable health education and interactive tools.
 
-<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
+<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
 <a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Review%20Index-review.sportsmedicine.tw-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
-<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="blog" /></a>
+<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-FF5722?style=for-the-badge&labelColor=555555&logo=blogger&logoColor=white" alt="blog" /></a>
 
 </div>
 
