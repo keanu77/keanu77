@@ -27,7 +27,7 @@
 | **AI 運動處方** | 依 ACSM FITT-VP 原則與 WHO 身體活動指引，按年齡、體能、健康狀況產生客製化運動處方 | [開啟](https://exerciseprescription.sportsmedicine.tw/) | [repo](https://github.com/keanu77/exercise-prescription-recommendation) |
 | **運動醫學 Review 索引** | 系統性回顧、統合分析與臨床指引索引，可依部位／主題／族群瀏覽，標示期刊 IF 與免費全文 | [開啟](https://review.sportsmedicine.tw/) | [repo](https://github.com/keanu77/review.sportsmedicine) |
 | **運動傷害影片圖鑑** | 依受傷部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察、衛教重點與選手公開回場紀錄 | [開啟](https://injury.sportsmedicine.tw/) | [公開範本（MIT）](https://github.com/keanu77/sports-injury-atlas-starter) |
-| **運動禁藥教育平台** | WADA 禁用清單中文教學、情境測驗、TUE 申請流程 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidopingplatform) |
+| **運動禁藥教育平台** | 國際禁藥處分案例搜尋與比較、年度趨勢與運動項目分布視覺化，附禁藥知識教育測驗 | [開啟](https://antidopingplatform.sportsmedicine.tw/) | [repo](https://github.com/keanu77/antidopingplatform) |
 | **台灣運動地圖** | 運動部「運動城市調查」開放資料視覺化，全台 22 縣市運動現況、趨勢與排名 | [開啟](https://twexercisemap.sportsmedicine.tw/) | [repo](https://github.com/keanu77/twexercisemap) |
 | **AthleteType 運動人格** | 28 題運動情境測驗，附個性化項目建議、訓練方式與教練溝通指南 | [開啟](https://athletetype.sportsmedicine.tw/) | [repo](https://github.com/keanu77/athletetype) |
 | **馬拉松完賽訓練** | 2D 橫向跑酷衛教遊戲，管理體力、配速與受傷風險，避開生病與過度訓練 | [開啟](https://marathongame.sportsmedicine.tw/) | [repo](https://github.com/keanu77/marathongame) |
