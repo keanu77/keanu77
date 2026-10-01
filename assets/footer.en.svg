@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="把門診講不完的，寫成看得懂的衛教">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="Turning clinic questions into tools people can use">
   <defs>
     <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
       <stop offset="0%" stop-color="#0ea5e9"/><stop offset="55%" stop-color="#0369a1"/><stop offset="100%" stop-color="#1e3a8a"/>
@@ -31,5 +31,5 @@
     <path class="ecg" pathLength="1000" d="M0,70 L520,70 L520,70 L530,64 L540,70 L548,70 L552,76 L558,36 L564,84 L570,70 L582,70 L594,60 L606,70 L1200,70" fill="none" stroke="#ffffff" stroke-opacity=".45" stroke-width="2" stroke-linejoin="round"/>
     <path class="pulse" pathLength="1000" d="M0,70 L520,70 L520,70 L530,64 L540,70 L548,70 L552,76 L558,36 L564,84 L570,70 L582,70 L594,60 L606,70 L1200,70" fill="none" stroke="#34d399" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
   </g>
-  <text class="meta" x="600" y="110" text-anchor="middle" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei','Hiragino Sans GB',sans-serif" fill="#e0f2fe" font-size="16" letter-spacing="1.5">把門診講不完的，寫成看得懂的衛教　·　sportsmedicine.tw</text>
+  <text class="meta" x="600" y="110" text-anchor="middle" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei','Hiragino Sans GB',sans-serif" fill="#e0f2fe" font-size="16" letter-spacing="1.5">Turning clinic questions into tools people can use　·　sportsmedicine.tw</text>
 </svg>

@@ -1,56 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Ethan Wu, MD — Sports Medicine · PM&amp;R · Pain Medicine">
-  <title>吳易澄 Ethan Wu — Sports Medicine · PM&amp;R · Pain Medicine</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Ethan Wu, MD — Sports Medicine · PM&amp;R · Pain Medicine">
+  <title>Ethan Wu, MD — Sports Medicine · PM&amp;R · Pain Medicine</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0ea5e9"/>
-      <stop offset="100%" stop-color="#1e3a8a"/>
+      <stop offset="0%" stop-color="#0ea5e9"/><stop offset="55%" stop-color="#0369a1"/><stop offset="100%" stop-color="#1e3a8a"/>
     </linearGradient>
-    <clipPath id="frame"><rect width="1200" height="220" rx="0"/></clipPath>
+    <filter id="glow" x="-5%" y="-50%" width="110%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1200" height="240"/></clipPath>
   </defs>
-
   <style>
-    /* 三層波浪各自以不同速度水平位移；位移量 300 等於一個完整波長，所以循環無接縫 */
-    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-300px); } }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-450px); } }
     @keyframes rise  { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: .75; } }
-
+    @keyframes draw  { from { stroke-dashoffset: 1000; } to { stroke-dashoffset: 0; } }
+    @keyframes run   { from { stroke-dashoffset: 1060; } to { stroke-dashoffset: 0; } }
     .wave { animation: drift linear infinite; }
-    .w1 { animation-duration: 9s;  }
-    .w2 { animation-duration: 14s; }
-    .w3 { animation-duration: 21s; }
-
+    .w1 { animation-duration: 12s; } .w2 { animation-duration: 18s; } .w3 { animation-duration: 26s; }
     .name { animation: rise .9s ease-out both; }
     .role { animation: rise .9s ease-out .25s both; }
     .meta { animation: rise .9s ease-out .45s both; }
-    .dot  { animation: pulse 3s ease-in-out infinite; }
-
+    .ecg   { stroke-dasharray: 1000; animation: draw 2.4s ease-out .3s both; }
+    .pulse { stroke-dasharray: 60 1000; animation: run 4.5s linear 2.7s infinite both; }
     /* 使用者開啟「減少動態效果」時全部停下，只留靜態版面 */
     @media (prefers-reduced-motion: reduce) {
-      .wave, .name, .role, .meta, .dot { animation: none; opacity: 1; transform: none; }
+      .wave, .name, .role, .meta, .ecg, .pulse { animation: none; opacity: 1; transform: none; stroke-dashoffset: 0; }
+      .pulse { display: none; }
     }
   </style>
-
-  <rect width="1200" height="220" fill="url(#bg)"/>
-
+  <rect width="1200" height="240" fill="url(#bg)"/>
   <g clip-path="url(#frame)">
-    <g class="wave w3" opacity=".18">
-      <path fill="#ffffff" d="M0,150 C75,132 150,168 225,150 C300,132 375,168 450,150 C525,132 600,168 675,150 C750,132 825,168 900,150 C975,132 1050,168 1125,150 C1200,132 1275,168 1350,150 C1425,132 1500,168 1575,150 L1575,220 L0,220 Z"/>
-    </g>
-    <g class="wave w2" opacity=".26">
-      <path fill="#ffffff" d="M0,166 C75,148 150,184 225,166 C300,148 375,184 450,166 C525,148 600,184 675,166 C750,148 825,184 900,166 C975,148 1050,184 1125,166 C1200,148 1275,184 1350,166 C1425,148 1500,184 1575,166 L1575,220 L0,220 Z"/>
-    </g>
-    <g class="wave w1" opacity=".34">
-      <path fill="#ffffff" d="M0,182 C75,164 150,200 225,182 C300,164 375,200 450,182 C525,164 600,200 675,182 C750,164 825,200 900,182 C975,164 1050,200 1125,182 C1200,164 1275,200 1350,182 C1425,164 1500,200 1575,182 L1575,220 L0,220 Z"/>
-    </g>
+    <g class="wave w3" opacity=".14"><path fill="#ffffff" d="M0,196 C75,178 150,214 225,196 C300,178 375,214 450,196 C525,178 600,214 675,196 C750,178 825,214 900,196 C975,178 1050,214 1125,196 C1200,178 1275,214 1350,196 C1425,178 1500,214 1575,196 L1575,400 L0,400 Z"/></g>
+    <g class="wave w2" opacity=".22"><path fill="#ffffff" d="M0,210 C75,192 150,228 225,210 C300,192 375,228 450,210 C525,192 600,228 675,210 C750,192 825,228 900,210 C975,192 1050,228 1125,210 C1200,192 1275,228 1350,210 C1425,192 1500,228 1575,210 L1575,400 L0,400 Z"/></g>
+    <g class="wave w1" opacity=".30"><path fill="#ffffff" d="M0,224 C75,206 150,242 225,224 C300,206 375,242 450,224 C525,206 600,242 675,224 C750,206 825,242 900,224 C975,206 1050,242 1125,224 C1200,206 1275,242 1350,224 C1425,206 1500,242 1575,224 L1575,400 L0,400 Z"/></g>
+    <path class="ecg" pathLength="1000" d="M0,176 L70,176 L70,176 L80,170 L90,176 L98,176 L102,182 L108,142 L114,190 L120,176 L132,176 L144,166 L156,176 L330,176 L330,176 L340,170 L350,176 L358,176 L362,182 L368,142 L374,190 L380,176 L392,176 L404,166 L416,176 L790,176 L790,176 L800,170 L810,176 L818,176 L822,182 L828,142 L834,190 L840,176 L852,176 L864,166 L876,176 L1050,176 L1050,176 L1060,170 L1070,176 L1078,176 L1082,182 L1088,142 L1094,190 L1100,176 L1112,176 L1124,166 L1136,176 L1200,176" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="2" stroke-linejoin="round"/>
+    <path class="pulse" pathLength="1000" d="M0,176 L70,176 L70,176 L80,170 L90,176 L98,176 L102,182 L108,142 L114,190 L120,176 L132,176 L144,166 L156,176 L330,176 L330,176 L340,170 L350,176 L358,176 L362,182 L368,142 L374,190 L380,176 L392,176 L404,166 L416,176 L790,176 L790,176 L800,170 L810,176 L818,176 L822,182 L828,142 L834,190 L840,176 L852,176 L864,166 L876,176 L1050,176 L1050,176 L1060,170 L1070,176 L1078,176 L1082,182 L1088,142 L1094,190 L1100,176 L1112,176 L1124,166 L1136,176 L1200,176" fill="none" stroke="#34d399" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
   </g>
-
   <g font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei','Hiragino Sans GB',sans-serif" text-anchor="middle">
-    <text class="name" x="600" y="82" fill="#ffffff" font-size="46" font-weight="700" letter-spacing="2">Ethan Wu, MD</text>
-    <text class="role" x="600" y="122" fill="#e0f2fe" font-size="21" font-weight="600" letter-spacing="1.5">Sports Medicine · PM&amp;R · Pain Medicine</text>
-    <text class="meta" x="600" y="152" fill="#bae6fd" font-size="15" letter-spacing="1">Physician　·　Builder　·　吳易澄</text>
+    <text class="name" x="600" y="74" fill="#ffffff" font-size="46" font-weight="700" letter-spacing="2">Ethan Wu, MD</text>
+    <text class="role" x="600" y="112" fill="#e0f2fe" font-size="21" font-weight="600" letter-spacing="1.5">Sports Medicine · PM&amp;R · Pain Medicine</text>
+    <text class="meta" x="600" y="140" fill="#bae6fd" font-size="15" letter-spacing="1">Physician　·　Builder　·　吳易澄</text>
   </g>
-
-  <circle class="dot" cx="1148" cy="34" r="5" fill="#7dd3fc"/>
-  <circle class="dot" cx="1168" cy="34" r="5" fill="#7dd3fc" style="animation-delay:.6s"/>
-  <circle class="dot" cx="1188" cy="34" r="5" fill="#7dd3fc" style="animation-delay:1.2s"/>
 </svg>

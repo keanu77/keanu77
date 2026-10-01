@@ -13,8 +13,8 @@ Ultrasound-guided injections (PRP / prolotherapy)　·　Sports injuries & retur
 I turn the questions patients ask most into readable health education and interactive tools.
 
 <a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=astro&logoColor=white" alt="sportsmedicine.tw" /></a>
-<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Review%20Index-review.sportsmedicine.tw-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
-<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-FF5722?style=for-the-badge&labelColor=555555&logo=blogger&logoColor=white" alt="blog" /></a>
+<a href="https://review.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Review%20Index-review.sportsmedicine.tw-1e3a8a?style=for-the-badge&labelColor=0369a1&logo=readthedocs&logoColor=white" alt="review.sportsmedicine.tw" /></a>
+<a href="https://blog.sportsmedicine.tw/"><img src="https://img.shields.io/badge/Blog-blog.sportsmedicine.tw-10b981?style=for-the-badge&labelColor=0369a1&logo=blogger&logoColor=white" alt="blog" /></a>
 
 </div>
 
@@ -137,17 +137,17 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&border_radius=10" alt="GitHub Stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=c9d1d9&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=keanu77&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0369a1&icon_color=10b981&text_color=334155&border_radius=10" alt="GitHub Stats" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_radius=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keanu77&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0369a1&text_color=334155&border_radius=10" alt="Top Languages" height="165" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10" />
-  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=34d399&currStreakLabel=38bdf8&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=keanu77&theme=default&hide_border=true&background=ffffff&stroke=0ea5e9&ring=0369a1&fire=10b981&currStreakLabel=0369a1&currStreakNum=1f2328&sideNums=1f2328&sideLabels=334155&dates=57606a&border_radius=10" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -158,7 +158,7 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 
 <div align="center">
 
-<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://sportsmedicine.tw/en/"><img src="https://img.shields.io/badge/Website-sportsmedicine.tw-0ea5e9?style=for-the-badge&labelColor=0369a1&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://line.me/R/ti/p/@521cvffb"><img src="https://img.shields.io/badge/LINE-%40521cvffb-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE Official Account" /></a>
 <a href="https://www.facebook.com/EthanWuMD/"><img src="https://img.shields.io/badge/Facebook-EthanWuMD-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/ethan77wu/"><img src="https://img.shields.io/badge/Instagram-ethan77wu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -171,6 +171,6 @@ feed a self-hosted RAG, exposed to agents through MCP servers for fact-checking.
 
 These tools and materials are for health education only and cannot replace a physician's examination or imaging such as ultrasound or MRI. If symptoms persist or worsen, please see a doctor.
 
-<img src="assets/footer.svg" alt="" width="100%" />
+<img src="assets/footer.en.svg" alt="" width="100%" />
 
 </div>
