@@ -81,6 +81,7 @@
 | **統合分析計算器** | 效果值互轉（Cohen's d／r／OR）、信賴區間、樣本數與檢驗力估算，附 PDF 報告 | [開啟](https://metacalc.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/Meta-Analysis-Calculator) |
 | **反向工程搜尋** | 從金標準文獻 PMID 反推 MeSH，產生敏感／平衡／精簡三版 PubMed 搜尋式 | [開啟](https://rev-searcher.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/reverse-engineer-searcher) |
 | **AI skill目錄** | 可搜尋、分類瀏覽的 Agent Skills 導覽站 | [開啟](https://aiskills.sportsmedicine.tw/)<br>[repo](https://github.com/keanu77/AIskillsintro) |
+| **HTML 簡報 Skill** | 一句話讓 AI 做出 reveal.js 簡報，可離線播放、自動驗 QR，並附講義 PPTX／PDF | [repo](https://github.com/keanu77/htmlpptskill) |
 
 ---
 
