@@ -44,7 +44,7 @@
 <a href="https://injury.sportsmedicine.tw/"><img src="assets/cards/injury-atlas.jpg" alt="運動傷害影片圖鑑" width="100%" /></a>
 <br /><b><a href="https://injury.sportsmedicine.tw/">運動傷害影片圖鑑</a></b><br />
 <sub>依部位、運動項目與情境瀏覽真實影片，整理受傷動作觀察與回場紀錄</sub><br />
-<sub><a href="https://injury.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/sports-injury-atlas-starter">公開範本（MIT）</a></sub>
+<sub><a href="https://injury.sportsmedicine.tw/">開啟 ↗</a>　·　<a href="https://github.com/keanu77/professional-sports-injury-atlas">原始碼</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://antidopingplatform.sportsmedicine.tw/"><img src="assets/cards/antidoping.jpg" alt="運動禁藥教育平台" width="100%" /></a>

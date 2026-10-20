@@ -46,7 +46,7 @@ Sports health education, research tools, and imaging courses. Click **Open** to 
 <a href="https://injury.sportsmedicine.tw/"><img src="assets/cards/injury-atlas.jpg" alt="Sports Injury Video Atlas" width="100%" /></a>
 <br /><b><a href="https://injury.sportsmedicine.tw/">Sports Injury Video Atlas</a></b><br />
 <sub>Real injury videos by body region, sport, and scenario, with mechanism notes and return-to-play records</sub><br />
-<sub><a href="https://injury.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/sports-injury-atlas-starter">Public starter (MIT)</a></sub>
+<sub><a href="https://injury.sportsmedicine.tw/">Open ↗</a>　·　<a href="https://github.com/keanu77/professional-sports-injury-atlas">Source</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://antidopingplatform.sportsmedicine.tw/"><img src="assets/cards/antidoping.jpg" alt="Anti-Doping Education Platform" width="100%" /></a>
